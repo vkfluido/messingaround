@@ -1,0 +1,2 @@
+First commit to locally and then pushed to origin.
+master=origin/master
