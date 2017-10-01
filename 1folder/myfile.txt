@@ -1,3 +1,2 @@
 First commit to locally and then pushed to origin.
-A change comes from the origin/master. What to do? #2
 master=origin/master
